@@ -11,6 +11,7 @@
 
 SELECT
     *
+    
 FROM {{ source('PRACTICE', 'LOAN') }}
 
 {% endsnapshot %}
