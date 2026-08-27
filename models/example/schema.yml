@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: PRACTICE
+    database: SQL_INTERVIEW_DB
+    schema: PRACTICE
+
+    tables:
+      - name: LOAN_TRANSACTION
+
+      - name: LOAN
