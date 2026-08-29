@@ -1,0 +1,1 @@
+select * from HARI_DBT_DB.PRACTICE.LOAN_SNAPSHOT;
